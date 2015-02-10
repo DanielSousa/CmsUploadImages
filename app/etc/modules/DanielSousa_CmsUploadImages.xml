@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <DanielSousa_CmsUploadImages>
+            <active>true</active>
+            <codePool>local</codePool>
+        </DanielSousa_CmsUploadImages>
+    </modules>
+</config>

@@ -1,0 +1,11 @@
+{
+  "name":"DanielSousa/CmsUploadImages",
+  "type":"magento-module",
+  "homepage":"https://github.com/DanielSousa/CmsUploadImages",
+  "description":"Fix for magento cms upload images",
+  "authors":[
+    {
+      "name":"Daniel Sousa"
+    }
+  ]
+}

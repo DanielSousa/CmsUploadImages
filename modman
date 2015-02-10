@@ -1,0 +1,4 @@
+app/code/local/DanielSousa/CmsUploadImages                                              app/code/local/DanielSousa/CmsUploadImages
+app/design/adminhtml/default/danielsousa/layout/cmsuploadimages.xml                     app/design/adminhtml/default/danielsousa/layout/cmsuploadimages.xml
+app/design/adminhtml/default/danielsousa/template/cms/browser/content/uploader.phtml    app/design/adminhtml/default/danielsousa/template/cms/browser/content/uploader.phtml
+app/etc/modules/DanielSousa_CmsUploadImages.xml                                         app/etc/modules/DanielSousa_CmsUploadImages.xml

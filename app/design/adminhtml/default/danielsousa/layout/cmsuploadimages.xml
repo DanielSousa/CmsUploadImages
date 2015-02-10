@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<layout>
+
+    <adminhtml_cms_wysiwyg_images_index>
+        <reference name="content">
+            <block name="wysiwyg_images.content">
+                <block name="wysiwyg_images.uploader" type="adminhtml/cms_wysiwyg_images_content_uploader" template="cms/browser/content/uploader.phtml"/>
+            </block>
+        </reference>
+    </adminhtml_cms_wysiwyg_images_index>
+
+</layout>

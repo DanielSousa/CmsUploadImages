@@ -1,0 +1,26 @@
+<config>
+    <modules>
+        <DanielSousa_CmsUploadImages>
+            <version>1.0.0</version>
+        </DanielSousa_CmsUploadImages>
+    </modules>
+    <adminhtml>
+        <layout>
+            <updates>
+                <danielsousa module="Daniel_Sousa">
+                    <file>cmsuploadimages.xml</file>
+                </danielsousa>
+            </updates>
+        </layout>
+    </adminhtml>
+    <!-- set default admin theme to make some overrides -->
+    <stores>
+        <admin>
+            <design>
+                <theme>
+                    <default>danielsousa</default>
+                </theme>
+            </design>
+        </admin>
+    </stores>
+</config>
